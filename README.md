@@ -25,6 +25,7 @@
   - [synchronized原理](https://t.1yb.co/BpCJ)
   - [CAS原理及缺点](https://t.1yb.co/Bu90)
   - [ReentrantLock原理及AQS](https://t.1yb.co/Bxo8)
+  - [volatile关键字原理](https://t.1yb.co/BDWy)
 
   ### 多线程
 
