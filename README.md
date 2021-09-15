@@ -28,6 +28,7 @@
   - [volatile关键字原理](https://t.1yb.co/BDWy)
 
   ### 多线程
+  - [线程周期+4种线程创建方式+线程池参数、原理](https://t.1yb.co/BKg5)
 
   ## MySQL
 
