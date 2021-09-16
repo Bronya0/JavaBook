@@ -29,6 +29,7 @@
 
   ### 多线程
   - [线程周期+4种线程创建方式+线程池参数、原理](https://t.1yb.co/BKg5)
+  - [死锁](https://t.1yb.co/BROq)
 
   ## MySQL
 
