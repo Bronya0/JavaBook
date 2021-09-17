@@ -13,6 +13,7 @@
   ### 代理
 
   ### JVM
+  - [JVM内存结构](https://t.1yb.co/BYCS)
 
   ### 反射
 
