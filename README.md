@@ -31,6 +31,7 @@
   - [CAS原理及缺点](https://t.1yb.co/Bu90)
   - [ReentrantLock原理及AQS](https://t.1yb.co/Bxo8)
   - [volatile关键字原理](https://t.1yb.co/BDWy)
+  - [ThreadLocal](https://t.1yb.co/CdNG)
 
   ### 多线程
   - [线程周期+4种线程创建方式+线程池参数、原理](https://t.1yb.co/BKg5)
