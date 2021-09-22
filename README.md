@@ -3,6 +3,7 @@
   Java常见知识点更新，包含java基础、集合、并发编程、jvm、mysql、redis、设计模式、操作系统、计算机网络等
   😳公众号搜【崩天的勾玉】，第一时间浏览最新文章，GitHub更新可能会有延迟。
   喜欢请右上角点个star！
+  仓库码云地址：https://gitee.com/bronya0/JavaBook 可能更新不及时
   
   大学四年的学习建议：https://t.1yb.co/Cd75
   ## 互联网公司名单
