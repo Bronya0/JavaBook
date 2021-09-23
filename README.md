@@ -16,6 +16,7 @@
   - [Hashmap+concurrentHashmap](https://t.1yb.co/Bpzc)
 
   ### 代理
+  - [静态代理，动态代理](https://t.1yb.co/CnMq)
 
   ### JVM
   - [JVM内存结构](https://t.1yb.co/BYCS)
